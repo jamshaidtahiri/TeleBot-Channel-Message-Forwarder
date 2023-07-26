@@ -1,4 +1,4 @@
-Sure! Let's enhance the README with some symbols to make it more visually engaging:
+﻿Sure! Let's enhance the README with some symbols to make it more visually engaging:
 
 ```markdown
 # 🚀 Telegram Bot - Channel Message Forwarder 📬
@@ -17,12 +17,12 @@ It's a convenient way to share updates and content between different Telegram ch
 
 1. **Clone the Repository:** Begin by cloning this repository to your local machine:
 
-```bash
+```bash 
 git clone https://github.com/jamshaidtahiri/TeleBot-Channel-Message-Forwarder.git
 cd TeleBot-Channel-Message-Forwarder
 ```
 
-2. **Install Dependencies:** Install the required Python dependencies using pip:
+2. **Install Dependencies:** Install the required Python dependencies using pip:.
 
 ```bash
 pip install -r requirements.txt
