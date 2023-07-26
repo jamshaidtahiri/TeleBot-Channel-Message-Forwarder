@@ -45,7 +45,7 @@ The bot will now start listening for messages in the source channel and forward 
 
 - **Effortless Message Forwarding:** The bot will seamlessly forward messages from the source channel to the destination channel, ensuring your content reaches the desired audience. 📬
 
-## Contributing 🤝
+## Contributing 🤝 
 
 Contributions are always appreciated! If you find any issues or have ideas to enhance the bot's functionality, feel free to create a pull request. Let's make this bot even better together! 🌟
 
