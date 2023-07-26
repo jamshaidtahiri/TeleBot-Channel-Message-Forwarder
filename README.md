@@ -5,7 +5,8 @@ Sure! Let's enhance the README with some symbols to make it more visually engagi
 
 ![Telegram Bot Logo](telegram_bot_logo.png)
 
-Welcome to the Telegram Channel Message Forwarder bot! This bot listens to messages in one channel and forwards them to another specified channel. It's a convenient way to share updates and content between different Telegram channels. Let's get started! 🎉
+Welcome to the Telegram Channel Message Forwarder bot! This bot listens to messages in one channel and forwards them to another specified channel.
+It's a convenient way to share updates and content between different Telegram channels. Let's get started! 🎉
 
 ## Prerequisites 📝
 
